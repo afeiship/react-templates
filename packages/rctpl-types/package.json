@@ -1,6 +1,6 @@
 {
   "name": "@jswork/rctpl-types",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Types for rctpl.",
   "main": "index.d.ts",
   "homepage": "https://github.com/afeiship/react-templates",
@@ -10,6 +10,8 @@
   },
   "license": "MIT",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "gitHead": "19f5152c404ce0486b5f7c0d87411e58ce4297c7"
 }
