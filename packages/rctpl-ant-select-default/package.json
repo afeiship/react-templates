@@ -1,6 +1,6 @@
 {
   "name": "@jswork/rctpl-ant-select-default",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React teamplate for ant select value/label.",
   "license": "MIT",
   "main": "dist/index.js",
