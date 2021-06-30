@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "cd ./packages/websites && yarn start",
-    "lerna:clean": "lerna clean",
+    "lerna:clean": "rm -rf node_modules && lerna clean",
     "lerna:list": "lerna list",
     "lerna:bootstrap": "lerna bootstrap",
     "build": "lerna run build --since master --no-private",

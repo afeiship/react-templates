@@ -33,7 +33,10 @@
     ]
   },
   "devDependencies": {
+    "@jswork/react-ant-radio-group": "^1.0.1",
     "@jswork/react-ant-select": "^1.0.1",
+    "@jswork/rctpl-ant-radio-button": "^1.0.0",
+    "@jswork/rctpl-ant-radio": "^1.0.0",
     "antd": "^4.16.3"
   }
 }

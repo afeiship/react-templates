@@ -1,7 +1,10 @@
 import React from "react";
 import ReactAntSelct from "@jswork/react-ant-select";
+import ReactAntRadioGroup from "@jswork/react-ant-radio-group";
 import RctplAntSelectDefault from "@jswork/rctpl-ant-select-default";
 import RctplAntSelectCname from "@jswork/rctpl-ant-select-cname";
+import RctplAntRadioButton from "@jswork/rctpl-ant-radio-button";
+import RctplAntRadio from "@jswork/rctpl-ant-radio";
 
 function App() {
   const items1 = [
@@ -23,6 +26,10 @@ function App() {
       <ReactAntSelct template={RctplAntSelectCname} items={items1} />
       <ReactAntSelct template={RctplAntSelectDefault} items={items2} />
       <ReactAntSelct template={RctplAntSelectDefault} items={items3} />
+
+      {/* RadioGroup */}
+      <ReactAntRadioGroup template={RctplAntRadioButton} items={items2} />
+      <ReactAntRadioGroup template={RctplAntRadio} items={items2} />
     </div>
   );
 }
