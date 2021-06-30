@@ -1,6 +1,6 @@
 {
   "name": "@jswork/rctpl-ant-radio-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Antd radio button template.",
   "license": "MIT",
   "main": "dist/index.js",

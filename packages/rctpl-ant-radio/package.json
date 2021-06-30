@@ -1,6 +1,6 @@
 {
   "name": "@jswork/rctpl-ant-radio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Antd radio tempalte.",
   "license": "MIT",
   "main": "dist/index.js",
