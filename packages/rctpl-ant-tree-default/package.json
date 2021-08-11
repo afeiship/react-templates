@@ -1,7 +1,7 @@
 {
-  "name": "@jswork/rctpl-ant-radio",
-  "version": "1.0.1",
-  "description": "Antd radio tempalte.",
+  "name": "@jswork/rctpl-ant-tree-default",
+  "version": "1.0.0",
+  "description": "Antd tree default template.",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/main.d.ts",
