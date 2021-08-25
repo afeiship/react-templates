@@ -1,7 +1,7 @@
 {
-  "name": "@jswork/rctpl-ant-radio-button",
-  "version": "1.0.2",
-  "description": "Antd radio button template.",
+  "name": "@jswork/rctpl-ant-tree-default",
+  "version": "1.0.1",
+  "description": "Antd tree default template.",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/main.d.ts",

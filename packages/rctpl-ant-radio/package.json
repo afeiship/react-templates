@@ -1,6 +1,6 @@
 {
   "name": "@jswork/rctpl-ant-radio",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Antd radio tempalte.",
   "license": "MIT",
   "main": "dist/index.js",
@@ -75,6 +75,7 @@
   "dependencies": {
     "@jswork/filter-react-props": "^1.0.2",
     "@jswork/noop": "^1.0.0",
+    "@jswork/rctpl-types": "^1.0.3",
     "classnames": "^2.2.6"
   },
   "publishConfig": {
