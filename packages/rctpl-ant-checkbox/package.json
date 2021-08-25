@@ -1,6 +1,6 @@
 {
   "name": "@jswork/rctpl-ant-checkbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React template for antd checkbox.",
   "license": "MIT",
   "main": "dist/index.js",

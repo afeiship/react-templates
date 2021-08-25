@@ -1,6 +1,6 @@
 {
   "name": "@jswork/rctpl-types",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Types for rctpl.",
   "main": "index.d.ts",
   "homepage": "https://github.com/afeiship/react-templates",
